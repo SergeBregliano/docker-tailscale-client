@@ -13,7 +13,7 @@ Run ``docker compose up -d`` or ``docker-compose up -d`` for older versions of D
 
 To finalize the configuration, you'll need to authenticate the container to Tailscale:
 
-
+### Authenticate
 
 Run the command-line command to connect your container to Tailscale:
 
